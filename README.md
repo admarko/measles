@@ -1,3 +1,12 @@
+________________________________________________________________________________
+Contains:  
+p3.js     -Run this.  
+                    -Usage: `python3 emoji_tweets.py [-h, --help]`  
+                            		where [-h] is run for help  
+                    		-Sample usage: python3 -h  
+README              -this file  
+________________________________________________________________________________
+
 # measles (still in progress)
 http://www.admarko.xyz/measles
 
