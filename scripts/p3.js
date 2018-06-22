@@ -5,7 +5,7 @@
   (factory((global.p3 = global.p3 || {})));
 }(this, (function (exports) { 'use strict';
 
-const transDur = 500;         //if using transitions
+const transDur = 700;         //if using transitions
 const hexWidth = 39.5;        //size of hexagons in US map
 const txtWidth = 20;          //width of state label on each row of grid
 const plotOpac = 0.25;        //opacity of plots
